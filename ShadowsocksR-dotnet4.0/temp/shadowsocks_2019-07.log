@@ -1,0 +1,419 @@
+[2019-07-15 16:10:58] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2019-07-15 16:11:10] [Error] connect to update server error
+[2019-07-15 16:11:16] ShadowsocksR started on port 1080
+[2019-07-15 16:11:17] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:17] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:17] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:17] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:11:25] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:25] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:26] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:11:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:27] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:11:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:11:28] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:11:28] [Error] connect to update server error
+[2019-07-15 16:11:36] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:36] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:36] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:36] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:11:47] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:47] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:47] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:47] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:11:59] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:59] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:59] [Info] Connect clients4.google.com:443
+[2019-07-15 16:11:59] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:12:00] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:12:00] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:12:00] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:12:00] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-07-15 16:12:12] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:12] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:12] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:12] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:12:26] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:26] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:27] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:27] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:12:34] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:12:35] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:12:35] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:12:35] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-07-15 16:12:42] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:42] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:42] [Info] Connect clients4.google.com:443
+[2019-07-15 16:12:43] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:12:59] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:00] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:00] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:00] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:13:18] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:19] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:19] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:19] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:13:28] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:13:28] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:13:29] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:13:29] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-07-15 16:13:39] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:39] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:40] [Info] Connect clients4.google.com:443
+[2019-07-15 16:13:40] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:14:02] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:02] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:02] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:03] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:14:27] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:27] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:27] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:28] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:14:54] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:55] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:55] [Info] Connect clients4.google.com:443
+[2019-07-15 16:14:55] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:15:20] [Info] Connect array707-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:15:21] [Info] Connect array707-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:15:21] [Info] Connect array707-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:15:21] [Info] Disconnect array707-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:15:25] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:25] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:25] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:25] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:15:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:15:58] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:16:25] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:25] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:16:26] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:27] [Info] Connect raw.githubusercontent.com:443
+[2019-07-15 16:16:28] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-15 16:16:28] [Error] connect to update server error
+[2019-07-15 16:16:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:16:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:16:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:16:35] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:16:49] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-07-15 16:16:49] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-07-15 16:16:49] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-07-15 16:16:49] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-07-15 16:17:14] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:14] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:14] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:15] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:17:35] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:17:35] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:17:36] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:17:36] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-07-15 16:17:58] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:17:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:58] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:17:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:58] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:17:58] [Info] Connect clients4.google.com:443
+[2019-07-15 16:17:58] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-07-15 16:17:58] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:18:46] [Info] Connect clients4.google.com:443
+[2019-07-15 16:18:46] [Info] Connect clients4.google.com:443
+[2019-07-15 16:18:46] [Info] Connect clients4.google.com:443
+[2019-07-15 16:18:47] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:19:05] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-07-15 16:19:39] [Info] Connect clients4.google.com:443
+[2019-07-15 16:19:39] [Info] Connect clients4.google.com:443
+[2019-07-15 16:19:39] [Info] Connect clients4.google.com:443
+[2019-07-15 16:19:40] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:20:37] [Info] Connect clients4.google.com:443
+[2019-07-15 16:20:37] [Info] Connect clients4.google.com:443
+[2019-07-15 16:20:38] [Info] Connect clients4.google.com:443
+[2019-07-15 16:20:38] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:20:59] [Info] Direct connect ldc.lenovo.com.cn:443
+[2019-07-15 16:20:59] [Info] Direct connect osfsr.lenovomm.com:443
+[2019-07-15 16:20:59] [Info] Direct connect osfsr.lenovomm.com:443
+[2019-07-15 16:21:41] [Info] Connect clients4.google.com:443
+[2019-07-15 16:21:41] [Info] Connect clients4.google.com:443
+[2019-07-15 16:21:42] [Info] Connect clients4.google.com:443
+[2019-07-15 16:21:42] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:22:36] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:22:36] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:22:36] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:22:36] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-07-15 16:22:51] [Info] Connect clients4.google.com:443
+[2019-07-15 16:22:52] [Info] Connect clients4.google.com:443
+[2019-07-15 16:22:52] [Info] Connect clients4.google.com:443
+[2019-07-15 16:22:52] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:23:36] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-07-15 16:23:55] [Info] Direct connect tile-service.weather.msn.cn:443
+[2019-07-15 16:23:55] [Info] Direct connect service.weather.msn.cn:443
+[2019-07-15 16:23:55] [Info] Direct connect tile-service.weather.msn.cn:443
+[2019-07-15 16:24:09] [Info] Connect clients4.google.com:443
+[2019-07-15 16:24:09] [Info] Connect clients4.google.com:443
+[2019-07-15 16:24:09] [Info] Connect clients4.google.com:443
+[2019-07-15 16:24:09] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:25:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:25:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:25:34] [Info] Connect clients4.google.com:443
+[2019-07-15 16:25:34] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:27:07] [Info] Connect clients4.google.com:443
+[2019-07-15 16:27:07] [Info] Connect clients4.google.com:443
+[2019-07-15 16:27:07] [Info] Connect clients4.google.com:443
+[2019-07-15 16:27:08] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:27:35] [Info] Connect array704-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:27:35] [Info] Connect array704-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:27:35] [Info] Connect array704-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:27:35] [Info] Disconnect array704-prod.do.dsp.mp.microsoft.com:443
+[2019-07-15 16:27:37] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:27:37] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:27:37] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:27:37] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-07-15 16:28:33] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:28:33] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:28:33] [Info] Connect v10.events.data.microsoft.com:443
+[2019-07-15 16:28:33] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-07-15 16:28:50] [Info] Connect clients4.google.com:443
+[2019-07-15 16:28:50] [Info] Connect clients4.google.com:443
+[2019-07-15 16:28:50] [Info] Connect clients4.google.com:443
+[2019-07-15 16:28:50] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:29:26] [Info] Direct connect clientservices.googleapis.com:443
+[2019-07-15 16:30:42] [Info] Connect clients4.google.com:443
+[2019-07-15 16:30:43] [Info] Connect clients4.google.com:443
+[2019-07-15 16:30:43] [Info] Connect clients4.google.com:443
+[2019-07-15 16:30:43] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:32:37] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:32:37] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:32:38] [Info] Connect az764295.vo.msecnd.net:443
+[2019-07-15 16:32:38] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-07-15 16:32:46] [Info] Connect clients4.google.com:443
+[2019-07-15 16:32:47] [Info] Connect clients4.google.com:443
+[2019-07-15 16:32:47] [Info] Connect clients4.google.com:443
+[2019-07-15 16:32:47] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:35:03] [Info] Connect clients4.google.com:443
+[2019-07-15 16:35:03] [Info] Connect clients4.google.com:443
+[2019-07-15 16:35:03] [Info] Connect clients4.google.com:443
+[2019-07-15 16:35:03] [Info] Disconnect clients4.google.com:443
+[2019-07-15 16:37:54] [Info] Connect www.google.com:443
+[2019-07-15 16:37:54] [Info] Direct connect www.gstatic.com:443
+[2019-07-15 16:37:54] [Info] Direct connect ssl.gstatic.com:443
+[2019-07-15 16:37:54] [Info] Connect lh3.googleusercontent.com:443
+[2019-07-15 16:37:54] [Info] Connect apis.google.com:443
+[2019-07-15 16:37:54] [Info] Connect lh4.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn2.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:55] [Info] Connect www.google.com:443
+[2019-07-15 16:37:55] [Info] Connect lh3.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Connect apis.google.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn2.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect lh4.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:55] [Info] Connect www.google.com:443
+[2019-07-15 16:37:55] [Info] Connect lh3.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn3.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect encrypted-tbn2.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:55] [Info] Connect lh4.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Connect apis.google.com:443
+[2019-07-15 16:37:55] [Info] Disconnect www.google.com:443
+[2019-07-15 16:37:55] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Disconnect encrypted-tbn3.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Disconnect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:55] [Info] Disconnect lh4.googleusercontent.com:443
+[2019-07-15 16:37:55] [Info] Disconnect apis.google.com:443
+[2019-07-15 16:37:55] [Info] Disconnect encrypted-tbn2.gstatic.com:443
+[2019-07-15 16:37:55] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:55] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:56] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:56] [Info] Disconnect verdict.valkyrie.comodo.com:443
+[2019-07-15 16:37:56] [Info] Connect www.google.com:443
+[2019-07-15 16:37:56] [Info] Connect www.google.com:443
+[2019-07-15 16:37:56] [Info] Connect www.google.com:443
+[2019-07-15 16:37:56] [Info] Disconnect www.google.com:443
+[2019-07-15 16:38:00] [Info] Connect mail.google.com:443
+[2019-07-15 16:38:01] [Info] Connect mail.google.com:443
+[2019-07-15 16:38:01] [Info] Connect mail.google.com:443
+[2019-07-15 16:38:01] [Info] Disconnect mail.google.com:443
+[2019-07-21 13:04:37] ShadowsocksR started on port 1080
+[2019-07-21 13:04:46] [Info] Connect activity.windows.com:443
+[2019-07-21 13:04:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:47] [Info] Connect activity.windows.com:443
+[2019-07-21 13:04:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:47] [Info] Connect activity.windows.com:443
+[2019-07-21 13:04:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:47] [Info] Disconnect activity.windows.com:443
+[2019-07-21 13:04:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:04:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:04:49] [Error] connect to update server error
+[2019-07-21 13:05:00] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:00] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:01] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:01] [Info] Disconnect clients4.google.com:443
+[2019-07-21 13:05:01] [Info] Direct connect suggestion.baidu.com:80
+[2019-07-21 13:05:02] [Info] Direct connect ssl.gstatic.com:443
+[2019-07-21 13:05:02] [Info] Direct connect ssl.gstatic.com:443
+[2019-07-21 13:05:15] [Info] Direct connect suggestion.baidu.com:80
+[2019-07-21 13:05:18] [Info] Direct connect www.google-analytics.com:443
+[2019-07-21 13:05:19] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:19] [Info] Connect www.google.com:443
+[2019-07-21 13:05:19] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:19] [Info] Connect www.google.com:443
+[2019-07-21 13:05:19] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:19] [Info] Connect www.google.com:443
+[2019-07-21 13:05:19] [Info] Disconnect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:19] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:19] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:19] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:20] [Info] Connect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:20] [Info] Disconnect verdict.valkyrie.comodo.com:443
+[2019-07-21 13:05:20] [Info] Connect www.google.com:443
+[2019-07-21 13:05:20] [Info] Connect www.google.com:443
+[2019-07-21 13:05:20] [Info] Connect www.google.com:443
+[2019-07-21 13:05:20] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:21] [Info] Connect www.google.com:443
+[2019-07-21 13:05:21] [Info] Connect www.google.com:443
+[2019-07-21 13:05:21] [Info] Connect www.google.com:443
+[2019-07-21 13:05:21] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:22] [Info] Connect www.google.com:443
+[2019-07-21 13:05:22] [Info] Connect www.google.com:443
+[2019-07-21 13:05:22] [Info] Connect www.google.com:443
+[2019-07-21 13:05:23] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:28] [Info] Connect www.google.com:443
+[2019-07-21 13:05:28] [Info] Connect www.google.com:443
+[2019-07-21 13:05:28] [Info] Connect www.google.com:443
+[2019-07-21 13:05:28] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:36] [Info] Connect www.google.com:443
+[2019-07-21 13:05:36] [Info] Connect www.google.com:443
+[2019-07-21 13:05:36] [Info] Connect www.google.com:443
+[2019-07-21 13:05:37] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:37] [Info] Connect www.google.com:443
+[2019-07-21 13:05:37] [Info] Connect www.google.com:443
+[2019-07-21 13:05:37] [Info] Connect www.google.com:443
+[2019-07-21 13:05:37] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:44] [Info] Connect www.google.com:443
+[2019-07-21 13:05:45] [Info] Connect www.google.com:443
+[2019-07-21 13:05:45] [Info] Connect www.google.com:443
+[2019-07-21 13:05:45] [Info] Disconnect www.google.com:443
+[2019-07-21 13:05:45] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-07-21 13:05:46] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:46] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:46] [Info] Connect clients4.google.com:443
+[2019-07-21 13:05:46] [Info] Disconnect clients4.google.com:443
+[2019-07-21 13:06:35] [Info] Direct connect ocsp2.globalsign.com:80
+[2019-07-21 13:06:43] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:443
+[2019-07-21 13:06:49] [Info] Direct connect ic.wps.cn:80
+[2019-07-21 13:07:25] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:443
+[2019-07-21 13:07:30] [Info] Direct connect ic.wps.cn:80
+[2019-07-21 13:08:06] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:443
+[2019-07-21 13:08:11] [Info] Direct connect ic.wps.cn:80
+[2019-07-21 13:08:15] [Info] Direct connect driverupdate.lenovo.com.cn:80
+[2019-07-21 13:09:41] [Info] Connect clients4.google.com:443
+[2019-07-21 13:09:41] [Info] Connect clients4.google.com:443
+[2019-07-21 13:09:41] [Info] Connect clients4.google.com:443
+[2019-07-21 13:09:42] [Info] Disconnect clients4.google.com:443
+[2019-07-21 13:09:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:47] [Info] Connect activity.windows.com:443
+[2019-07-21 13:09:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:09:47] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:47] [Info] Connect activity.windows.com:443
+[2019-07-21 13:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:48] [Info] Connect activity.windows.com:443
+[2019-07-21 13:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:48] [Info] Disconnect activity.windows.com:443
+[2019-07-21 13:09:48] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:48] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Info] Connect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Info] Disconnect raw.githubusercontent.com:443
+[2019-07-21 13:09:49] [Error] connect to update server error
+[2019-07-21 13:11:11] [Info] Direct connect ic.wps.cn:80
+[2019-07-21 13:11:11] [Info] Direct connect ic.wps.cn:80
+[2019-07-21 13:11:18] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:18] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:18] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:18] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:18] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:19] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:19] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:19] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:19] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:19] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:20] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:20] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:20] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:20] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:20] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:21] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:22] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:22] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:22] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:22] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:22] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:23] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:23] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:23] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:23] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:23] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:24] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:25] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:25] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:26] [Info] Connect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:26] [Info] Disconnect watson.telemetry.microsoft.com:443
+[2019-07-21 13:11:50] [Info] Direct connect js1.pcfg.cache.wpscdn.cn:443
+[2019-07-21 13:11:55] [Info] Direct connect ic.wps.cn:80
